@@ -6,4 +6,8 @@ sources:
   - https://github.com/mautrix/telegram
 type: application
 version: 1.0.1
-appVersion: "v0.15.3"
+appVersion: "v0.2610.0"
+dependencies:
+  - name: mautrix-go-base
+    version: 1.0.0
+    repository: file://../mautrix-go-base
